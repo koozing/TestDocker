@@ -1,4 +1,4 @@
-namespace TestDocker
+namespace TestDocker2
 {
     public class WeatherForecast
     {
